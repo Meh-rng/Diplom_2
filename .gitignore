@@ -18,7 +18,7 @@ build/
 *.egg
 
 # Allure reports
-allure-results/
+
 allure-report/
 *.xml
 *.json
